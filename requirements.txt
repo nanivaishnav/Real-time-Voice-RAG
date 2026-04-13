@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+qdrant-client
+fastembed
+openai>=1.0.0
+python-dotenv
+firecrawl-py
+streamlit
+httpx
